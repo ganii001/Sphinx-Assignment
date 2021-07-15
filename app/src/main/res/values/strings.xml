@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sphinx Assignment</string>
+    <string name="not_yet_a_member">Not yet a member?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="registration">Registration</string>
+    <string name="username">Username</string>
+    <string name="mobile">Mobile</string>
+    <string name="city">City</string>
+    <string name="user">User</string>
+    <string name="service_provider">Service Provider</string>
+    <string name="i_accept_all_the">I accept all the</string>
+    <string name="terms_and_conditions"> <u>Terms and Conditions</u></string>
+    <string name="register">Register</string>
+    <string name="search_service_providers">Search Service Providers</string>
+    <string name="all_service_providers">All Service\nProviders</string>
+    <string name="most_used_services">Most Used Services</string>
+    <string name="home_cleaning">Home Cleaning</string>
+    <string name="resto">Resto</string>
+</resources>
